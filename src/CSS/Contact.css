@@ -1,0 +1,39 @@
+.contact{
+    display:flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+
+    height: 90vh;
+    width: 90vw;
+}
+
+h2{
+    font-size: 20px;
+    margin-top: 0;
+}
+
+.contact-header{
+    text-decoration: underline;
+    font-size: 60px;
+    margin:0;
+}
+
+.contact-card{
+    display: flexbox;
+    margin:0;
+    width: 20em;
+    height: 20em;
+    justify-content: center;
+    align-items: flex-end;
+    padding-right: 10vh;
+    padding-bottom: 10vh;
+}
+
+.contact-box{
+    text-align: left;
+    background-color: #000000;
+    color: white;
+    padding: 2em 2em;
+    height: 15em;
+    width:15em;
+}
